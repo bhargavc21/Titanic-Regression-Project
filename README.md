@@ -149,7 +149,8 @@ jupyter notebook
 ## 👤 Author
 
 **Bhargav Chakraborty**
-Professional Certificate in Data Analytics and Generative AI, E&ICT Academy, IIT Kanpur
+BTech in Electrical Engineering and MBA (Operations)
+(Data Analytics and Visualization using Python , Jadavpur University)
+(Professional Certificate Course in Data Analytics and Generative AI, E&ICT Academy, IIT Kanpur)
 
-- LinkedIn: [add your profile link]
-- GitHub: [add your profile link]
+- LinkedIn: https://www.linkedin.com/in/bhargav-chakraborty-1592b5202/
